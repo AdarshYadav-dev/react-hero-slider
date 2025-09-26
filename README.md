@@ -28,7 +28,7 @@ This is a simple **React.js project** that demonstrates a hero section with:
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 ### 1️⃣ Clone the repository
 
